@@ -1,31 +1,22 @@
 {
   "files": {
     "main.css": "/employeeDirectory/static/css/main.718dff5c.chunk.css",
-    "main.js": "/employeeDirectory/static/js/main.e64de4d6.chunk.js",
-    "main.js.map": "/employeeDirectory/static/js/main.e64de4d6.chunk.js.map",
-    "runtime-main.js": "/employeeDirectory/static/js/runtime-main.324e9298.js",
-    "runtime-main.js.map": "/employeeDirectory/static/js/runtime-main.324e9298.js.map",
+    "main.js": "/employeeDirectory/static/js/main.7f66d073.chunk.js",
+    "main.js.map": "/employeeDirectory/static/js/main.7f66d073.chunk.js.map",
+    "runtime-main.js": "/employeeDirectory/static/js/runtime-main.39ef4f13.js",
+    "runtime-main.js.map": "/employeeDirectory/static/js/runtime-main.39ef4f13.js.map",
     "static/js/2.218d969b.chunk.js": "/employeeDirectory/static/js/2.218d969b.chunk.js",
     "static/js/2.218d969b.chunk.js.map": "/employeeDirectory/static/js/2.218d969b.chunk.js.map",
-    "static/js/3.75e2873e.chunk.js": "/employeeDirectory/static/js/3.75e2873e.chunk.js",
-    "static/js/3.75e2873e.chunk.js.map": "/employeeDirectory/static/js/3.75e2873e.chunk.js.map",
+    "static/js/3.1280fe6e.chunk.js": "/employeeDirectory/static/js/3.1280fe6e.chunk.js",
+    "static/js/3.1280fe6e.chunk.js.map": "/employeeDirectory/static/js/3.1280fe6e.chunk.js.map",
     "index.html": "/employeeDirectory/index.html",
     "static/css/main.718dff5c.chunk.css.map": "/employeeDirectory/static/css/main.718dff5c.chunk.css.map",
-    "static/js/2.218d969b.chunk.js.LICENSE.txt": "/employeeDirectory/static/js/2.218d969b.chunk.js.LICENSE.txt",
-    "static/media/alain.jpg": "/employeeDirectory/static/media/alain.4dffabb5.jpg",
-    "static/media/alina.jpg": "/employeeDirectory/static/media/alina.b2efc057.jpg",
-    "static/media/angie.jpg": "/employeeDirectory/static/media/angie.e5d208fb.jpg",
-    "static/media/ike.jpg": "/employeeDirectory/static/media/ike.5e2b9eaf.jpg",
-    "static/media/judah.jpg": "/employeeDirectory/static/media/judah.8559df5b.jpg",
-    "static/media/marly.jpg": "/employeeDirectory/static/media/marly.548345ab.jpg",
-    "static/media/osmund.jpg": "/employeeDirectory/static/media/osmund.68de725c.jpg",
-    "static/media/penn.jpg": "/employeeDirectory/static/media/penn.34682934.jpg",
-    "static/media/tabbatha.jpg": "/employeeDirectory/static/media/tabbatha.bbdc343c.jpg"
+    "static/js/2.218d969b.chunk.js.LICENSE.txt": "/employeeDirectory/static/js/2.218d969b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.324e9298.js",
+    "static/js/runtime-main.39ef4f13.js",
     "static/js/2.218d969b.chunk.js",
     "static/css/main.718dff5c.chunk.css",
-    "static/js/main.e64de4d6.chunk.js"
+    "static/js/main.7f66d073.chunk.js"
   ]
 }
