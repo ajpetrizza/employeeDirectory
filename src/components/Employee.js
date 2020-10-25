@@ -1,4 +1,3 @@
-import { image } from 'faker';
 import React from 'react';
 
 
