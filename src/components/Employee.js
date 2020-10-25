@@ -10,7 +10,7 @@ const Employee = (props) => {
             <div className="item">
                 <div className="ui grid">
                     <div className="four wide column">
-                        <img alt="Avatar" className="photo" src={require('../images' + item.image)}/>
+                        <img alt="Avatar" className="photo" src={"https://ajpetrizza.github.io/employeelistproj/src/images" + item.image}/>
                     </div>
                     <div className="four wide column">
                         {item.firstName}
